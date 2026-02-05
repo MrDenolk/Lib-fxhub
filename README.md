@@ -1398,7 +1398,7 @@ function MyLibrary:MakeWindow(Configs)
 		Position = UDim2.new(0.5, -UISizeX/2, 0.5, -UISizeY/2),
 		BackgroundTransparency = 0.03,
 		Name = "Hub",
-		Image = "rbxassetid://133553528978748", -- NOVO ID DE FUNDO
+		Image = "rbxassetid://117086875197369", -- NOVO ID DE FUNDO
 		ImageColor3 = Color3.fromRGB(255, 255, 255),
 		ImageTransparency = 0.2,
 		ScaleType = Enum.ScaleType.Crop
